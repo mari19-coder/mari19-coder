@@ -10,6 +10,10 @@ Desenvolver habilidades técnicas e gerenciais para atuar estrategicamente na á
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@5541._)
 
+<img src="https://raw.githubusercontent.com/mari19-coder/mari19-coder/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,7 +37,5 @@ Desenvolver habilidades técnicas e gerenciais para atuar estrategicamente na á
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mari19-coder&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E9D5F&text_color=FFF)](https://github.com/mari19-coder/dio-lab-open-source.git)
 
-<img src="https://raw.githubusercontent.com/mari19-coder/mari19-coder/output/snake.svg" alt="Snake animation" />
 
-###
 
