@@ -32,3 +32,8 @@ Desenvolver habilidades técnicas e gerenciais para atuar estrategicamente na á
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mari19-coder&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E9D5F&text_color=FFF)](https://github.com/mari19-coder/dio-lab-open-source.git)
+
+<img src="https://raw.githubusercontent.com/mari19-coder/mari19-coder/output/snake.svg" alt="Snake animation" />
+
+###
+
