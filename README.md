@@ -10,8 +10,6 @@ Atuar como **Analista de Dados**, utilizando ferramentas como **Power BI, Excel,
  - Aprimorar minhas habilidades em modelagem de dados e storytelling com dados.
  - Contribuir para projetos que envolvam análise de performance, indicadores e insights de negócio.
 
-📚 **Em constante aprendizado** Atualmente estudando **Power BI** e **Excel Avançado** (trilha DIO e projetos práticos) e na trilha de carreira da Alura.
-
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianne-andrade-30427933a/)
 
