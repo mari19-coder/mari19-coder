@@ -2,8 +2,13 @@
 
  🎓 Formada em Administração e atualmente estudante de Gestão de Tecnologia da Informação e apaixonada por inovação, dados e soluções que transformam negócios. Estou em constante aprendizado e aqui compartilho meus projetos, estudos e contribuições para a comunidade tech.
 
-## 🚀 Objetivo
-Desenvolver habilidades técnicas e gerenciais para atuar estrategicamente na área de TI, integrando tecnologia com resultados reais.
+# 🎯 Objetivo Profissional
+Atuar como **Analista de Dados**, utilizando ferramentas como **Power BI, Excel, SQL e Python** para transformar dados em informações estratégicas que apoiem a tomada de decisão.
+
+## 💡 **O que estou buscando** 
+- Desenvolver dashboards interativos e relatórios gerenciais. - Aprimorar minhas habilidades em modelagem de dados e storytelling com dados. - Contribuir para projetos que envolvam análise de performance, indicadores e insights de negócio.
+
+📚 **Em constante aprendizado** Atualmente estudando **Power BI** e **Excel Avançado** (trilha DIO e projetos práticos) e na trilha de carreira da Alura.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianne-andrade-30427933a/)
