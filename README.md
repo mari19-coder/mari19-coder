@@ -6,7 +6,9 @@
 Atuar como **Analista de Dados**, utilizando ferramentas como **Power BI, Excel, SQL e Python** para transformar dados em informações estratégicas que apoiem a tomada de decisão.
 
 ## 💡 **O que estou buscando** 
-- Desenvolver dashboards interativos e relatórios gerenciais. - Aprimorar minhas habilidades em modelagem de dados e storytelling com dados. - Contribuir para projetos que envolvam análise de performance, indicadores e insights de negócio.
+ - Desenvolver dashboards interativos e relatórios gerenciais.
+ - Aprimorar minhas habilidades em modelagem de dados e storytelling com dados.
+ - Contribuir para projetos que envolvam análise de performance, indicadores e insights de negócio.
 
 📚 **Em constante aprendizado** Atualmente estudando **Power BI** e **Excel Avançado** (trilha DIO e projetos práticos) e na trilha de carreira da Alura.
 
