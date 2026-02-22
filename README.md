@@ -35,9 +35,9 @@ Atuar como **Analista de Dados**, utilizando ferramentas como **Power BI, Excel,
 - 🗃️ [Gerenciamento de Banco de Dados com PostgreSQL](https://github.com/mari19-coder/seu-projeto)
 
 ## 📚 Em Aprendizado
-- Docker e containers
-- Infraestrutura como código (Terraform)
-- Machine Learning com Python
+- Klabin - Excel e Power BI Dashboards 2026 (DIO)
+- Análise de Dados (Alura)
+
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mari19-coder&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E9D5F&text_color=FFF)](https://github.com/mari19-coder/dio-lab-open-source.git)
