@@ -1,46 +1,82 @@
-# Marianne Andrade 👩‍💻
+<br>
 
- 🎓 Formada em Administração e atualmente estudante de Gestão de Tecnologia da Informação e apaixonada por inovação, dados e soluções que transformam negócios. Estou em constante aprendizado e aqui compartilho meus projetos, estudos e contribuições para a comunidade tech.
+<div align="center">
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
 
-# 🎯 Objetivo Profissional
-Atuar como **Analista de Dados**, utilizando ferramentas como **Power BI, Excel, SQL e Python** para transformar dados em informações estratégicas que apoiem a tomada de decisão.
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hello! I'm <b>Marianne Andrade</b>
+  </samp>
+</div>
 
-## 💡 **O que estou buscando** 
- - Desenvolver dashboards interativos e relatórios gerenciais.
- - Aprimorar minhas habilidades em modelagem de dados e storytelling com dados.
- - Contribuir para projetos que envolvam análise de performance, indicadores e insights de negócio.
+<div align="center" width="100%">
+  
+ <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=22&pause=1000&color=A020F0&width=435&lines=Developer+Application+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianne-andrade-30427933a/)
-
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@5541._)
-
-<img src="https://raw.githubusercontent.com/mari19-coder/mari19-coder/output/snake.svg" alt="Snake animation" />
-
-###
-
-## Habilidades
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats
-![Mari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mari19-coder&show_icons=true&theme=dracula)
-
-## 🌱Projetos
-- 🔍 [Análise de Dados com Python](https://github.com/mari19-coder/seu-projeto)
-- ☁️ [Automação de Deploy com AWS](https://github.com/mari19-coder/seu-projeto)
-- 🗃️ [Gerenciamento de Banco de Dados com PostgreSQL](https://github.com/mari19-coder/seu-projeto)
-
-## 📚 Em Aprendizado
-- Klabin - Excel e Power BI Dashboards 2026 (DIO)
-- Análise de Dados (Alura)
+<br>
 
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mari19-coder&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E9D5F&text_color=FFF)](https://github.com/mari19-coder/dio-lab-open-source.git)
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+ 
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+   
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianne-andrade-30427933a/)
+  
+</div>
 
 
+<div align="center">
+ 
+  <p align="center">
+     
+  </p>
+</div>
+<br>
 
+##
